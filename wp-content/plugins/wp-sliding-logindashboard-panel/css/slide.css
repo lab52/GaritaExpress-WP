@@ -35,7 +35,7 @@ Version: 1.0
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-    font-size: 14px; /* font-size set to 130% for the default Kubrick Wordpress theme */
+    font-size: 15px; /* font-size set to 130% for the default Kubrick Wordpress theme */
 }
 
 #panel {
@@ -55,6 +55,8 @@ Version: 1.0
 	margin: 0;
 	color: white;
 	text-align: left;
+	font-family: "gothambold";
+	font-weight: normal;
 }
 
 #panel h2{
@@ -72,7 +74,9 @@ Version: 1.0
 
 #panel a {
 	text-decoration: none;
-	color: #15ADFF;
+	color: #b8b8b8;
+	font-family: "gothambook";
+	font-weight: normal;
 }
 
 #panel a:hover {
@@ -184,12 +188,11 @@ Version: 1.0
 
 /* Panel Tab/button */
 .tab {
-/*  	background: url(../images/tab_b.png) repeat-x 0 0;*/
-	height: 42px;
-    z-index: 999;
-    width: 300px;
-    position: absolute;
-    right: 0;
+  	background: url(../images/tab_b.png) repeat-x 0 0;
+	height: 12px;
+	position: relative;
+    top: 0;
+    z-index: 4000;
 }
 
 .tab ul.login {
@@ -210,36 +213,61 @@ Version: 1.0
         line-height: 18px ; */
 }
 
+.tab ul.login li.left {
+	display: none;
+/*  	background: url(../images/tab_l.png) no-repeat left 0;
+  	height: 42px;
+	width: 30px;
+	padding: 0;
+	margin: 0;
+  	display: block;
+	float: left;*/
+}
+
+.tab ul.login li.right {
+	display: none;
+/*  	background: url(../images/tab_r.png) no-repeat left 0;
+  	height: 42px;
+	width: 30px;
+	padding: 0;
+	margin: 0;
+  	display: block;
+	float: left;*/
+}
+
 .tab ul.login li {
  	text-align: center;
 	display: block;
-	float: left;
-	height: 107px;
-	width: 137px;
-  	background: url(../images/labelY9.png) no-repeat;
+	width: 182px;
+	height: 68px;
+	position: relative;
+	right: 87px;
+  	background: url(../images/label.png) no-repeat center;
 }
 
 .tab ul.login li a {
-	font: normal 16px "gothambold";
-	text-transform: uppercase;
-	position: relative;
-	top: 45px;
-	width: 137px;
-	right: 50%;
-	margin-left: 68.5px;
-	color: #3F66AF;
+	color: #5e5900;
 }
 
 .tab ul.login li a:hover {
-	color: #7d9ad0;
+	color: #a39a00;
 }
 
 .tab .sep {color:#414141}
 
 .tab a.open, .tab a.close {
 	height: 20px;
-	line-height: 20px !important;
 	cursor: pointer;
 	display: block;
 	width: 100px;
+	position: relative;
+	top: 20px;
+	margin: 0 auto;
+	text-align: center;
+	font: normal 14px "gothambold";
+	text-transform: uppercase;
+
 }
+
+.tab a:hover.open {}
+.tab a:hover.close {}

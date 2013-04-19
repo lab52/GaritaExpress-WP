@@ -3,6 +3,11 @@
 
 * {	font-family: allerlight; }
 a { text-decoration: none; color: #ec1c24;}
+
+html.no-js {
+	background-color: #000;
+}
+
 body {
 	background-color: #000;
 	}	
@@ -28,6 +33,10 @@ body {
  	#top ul {
  		text-align: right;
  		padding-right: 155px;
+ 		width: 400px;
+ 		float: right;
+ 		margin-right: 30px;
+ 		position: relative;
 		/*background-color: yellow;*/
  		}
 	 	#top ul li{
@@ -39,7 +48,7 @@ body {
 	 			text-decoration: none;
 	 			font-size: 13px;
 	 			}
-	 			#top ul li.registrate {
+	 			/*#top ul li.registrate {
 	 				display: inline-block;
 	 				background: transparent url('../img/labelY9.png') no-repeat;
 	 				width: 147px;
@@ -55,7 +64,7 @@ body {
 	 				top: 45px;
 	 				margin-right: 10px;
 	 				color: #3F66AF;
-	 				}
+	 				}*/
 #header{
 	height: 80px;
 	background-color: #fff;
@@ -77,7 +86,6 @@ body {
 	 #header ul#tels {
 	 
 	 	float: right;
-	 	margin-right: 235px;
 	 	}
 	 	#header ul#tels li {
 	 		display: inline-block;
@@ -1138,6 +1146,7 @@ body {
 			}
 			input#costos {
 			width: 100px;
+			max-height: 13px;
 				}
 		div.input_calc.cantidad {
 			float: left;

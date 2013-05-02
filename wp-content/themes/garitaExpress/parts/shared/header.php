@@ -33,28 +33,28 @@
 	            	<a href="<?php bloginfo('siteurl'); ?>/servicios/compras">
 		                <h1>Compramos por ti</h1> 
 		                <div class="temp_icon" ><img src="<?php bloginfo('template_directory'); ?>/_/img/lap.png" alt=""/></div>
-		                <p>Bacon ipsum dolor sit amet jerky tenderloin bresaola salami. Leberkas brisket chuck, tongue strip steak doner filet mignon </p>
+		                <p>¡Nos encargamos de todo el proceso. Nos dices qué es lo que quieres, hacemos la compra, la recibimos y te la enviamos!</p>
 	            	</a>
 	            </div>
 	            <div class="col_1">
 	            	<a href="<?php bloginfo('siteurl'); ?>/servicios/direccion">
 	                    <h1>Dirección en USA</h1> 
 	                    <div class="temp_icon"><img src="<?php bloginfo('template_directory'); ?>/_/img/mail.png" alt=""/></div>
-	                    <p>Bacon ipsum dolor sit amet jerky tenderloin bresaola salami. Leberkas brisket chuck, tongue strip steak doner filet mignon </p>
+	                    <p>¡Obtén tu propia dirección en USA. Tú haces las compras y nosotros las recibimos para luego enviártelas a tu ciudad!</p>
 	            	</a>
 	            </div>
 	            <div class="col_1">
 	            	<a href="<?php bloginfo('siteurl'); ?>/servicios/envios">
 	                     <h1>Paquetería y Mensajería</h1> 
 	                    <div class="temp_icon" style="height:90px;"><img src="<?php bloginfo('template_directory'); ?>/_/img/box3.png" alt=""/></div>
-	                    <p>Bacon ipsum dolor sit amet jerky tenderloin bresaola salami. Leberkas brisket chuck, tongue strip steak doner filet mignon </p>
+	                    <p>¡Nos encargamos de empacar, documentar y enviar. De Tijuana al resto del país y de USA a todo México! </p>
 	            	</a>
 	            </div>
 	            <div class="col_1">
 	            	<a href="<?php bloginfo('siteurl'); ?>/servicios/empresas">
 	                    <h1>Empresas</h1> 
 	                    <div class="temp_icon"><img src="<?php bloginfo('template_directory'); ?>/_/img/fabrica.png" alt=""/></div>
-	                    <p>Bacon ipsum dolor sit amet jerky tenderloin bresaola salami. Leberkas brisket chuck, tongue strip steak doner filet mignon </p>
+	                    <p>Atención personalizada a todas aquellas empresas que requieran servicios de importación y exportación de mercancías.</p>
 	            	</a>
 	            </div>
 	    	</div><!-- End 3 columns container -->
@@ -65,14 +65,14 @@
 	            	<a href="<?php bloginfo('siteurl'); ?>/promociones/ganga-express">
 	                    <h1>Ganga Express</h1> 
 	                    <div class="temp_icon"><img src="<?php bloginfo('template_directory'); ?>/_/img/reloj.png" alt=""/></div>
-	                    <p>Bacon ipsum dolor sit amet jerky tenderloin bresaola salami. Leberkas brisket chuck, tongue strip steak doner filet mignon </p>
+	                    <p>¡Cada día te presentaremos una ganga diferente. La ganga dura solo unas cuantas horas!</p>
 	            	</a>
 	            </div>
 	            <div class="col_1">
 	            	<a href="<?php bloginfo('siteurl'); ?>/promociones/promo-express">
 	                    <h1>Promo Express</h1> 
 	                    <div class="temp_icon"><img src="<?php bloginfo('template_directory'); ?>/_/img/cel.png" alt=""/></div>
-	                    <p>Bacon ipsum dolor sit amet jerky tenderloin bresaola salami. Leberkas brisket chuck, tongue strip steak doner filet mignon </p>
+	                    <p>¡Conoce toda la variedad que manejamos en los electrónicos más populares a los mejores precios!</p>
 	            	</a>
 	            </div>
 	    	</div><!-- End 3 columns container -->
@@ -83,21 +83,21 @@
 	            	<a href="<?php bloginfo('siteurl'); ?>/tiendas/ofertas">
 	                    <h1>¡Ofertas!</h1> 
 	                    <div class="temp_icon"><img src="<?php bloginfo('template_directory'); ?>/_/img/tag-m.png" alt=""/></div>
-	                    <p>Bacon ipsum dolor sit amet jerky tenderloin bresaola salami. Leberkas brisket chuck, tongue strip steak doner filet mignon </p>
+	                    <p>¡Descubre todas las ofertas, cupones y descuentos que tenemos de tus tiendas y marcas favoritas!</p>
 	            	</a>
 	            </div>
 	            <div class="col_1">
 	            	<a href="<?php bloginfo('siteurl'); ?>/tiendas/catalogo">
 	                     <h1>Catálogo de tiendas</h1> 
 	                    <div class="temp_icon"><img src="<?php bloginfo('template_directory'); ?>/_/img/archivero.png" alt=""/></div>
-	                    <p>Bacon ipsum dolor sit amet jerky tenderloin bresaola salami. Leberkas brisket chuck, tongue strip steak doner filet mignon </p>
+	                    <p>¡Te proporcionamos el mejor directorio de tiendas en las categorías más populares!</p>
 	            	</a>
 	            </div>
 	            <div class="col_1">
 	            	<a href="<?php bloginfo('siteurl'); ?>/tiendas/comparador">
 	                    <h1>Comparador</h1> 
 	                    <div class="temp_icon"><img src="<?php bloginfo('template_directory'); ?>/_/img/compara.png" alt=""/></div>
-	                    <p>Bacon ipsum dolor sit amet jerky tenderloin bresaola salami. Leberkas brisket chuck, tongue strip steak doner filet mignon </p>
+	                    <p>Descubre todas las ofertas, cupones y descuentos que tenemos de tus tiendas y marcas favoritas!</p>
 	            	</a>
 	            </div>	        
 	    	</div><!-- End 3 columns container -->
@@ -108,21 +108,21 @@
 	            	<a href="<?php bloginfo('siteurl'); ?>/como-funciona/pagosyenvios">
 	                    <h1>Pagos y Envíos</h1> 
 	                    <div class="temp_icon"><img src="<?php bloginfo('template_directory'); ?>/_/img/tarjeta.png" alt=""/></div>
-	                    <p>Bacon ipsum dolor sit amet jerky tenderloin bresaola salami. Leberkas brisket chuck, tongue strip steak doner filet mignon </p>
+	                    <p>Conoce las diferentes formas de pago aceptadas así como el rastreo de todas tus compras.  </p>
 	            	</a>
 	            </div>
 	            <div class="col_1">
 	            	<a href="<?php bloginfo('siteurl'); ?>/como-funciona/preguntas">
 	                    <h1>Preguntas</h1> 
 	                    <div class="temp_icon"><img src="<?php bloginfo('template_directory'); ?>/_/img/preguntas.png" alt=""/></div>
-	                    <p>Bacon ipsum dolor sit amet jerky tenderloin bresaola salami. Leberkas brisket chuck, tongue strip steak doner filet mignon </p>
+	                    <p>En esta sección encontrarás las respuestas a todas tus dudas acerca de nuestros servicios.</p>
 	            	</a>
 	            </div>
 	            <div class="col_1">
 	            	<a href="<?php bloginfo('siteurl'); ?>/como-funciona/testimonios">
 	                    <h1>Testimonios</h1> 
 	                    <div class="temp_icon"><img src="<?php bloginfo('template_directory'); ?>/_/img/review.png" alt=""/></div>
-	                    <p>Bacon ipsum dolor sit amet jerky tenderloin bresaola salami. Leberkas brisket chuck, tongue strip steak doner filet mignon </p>
+	                    <p>Conoce la opinión de algunos de nuestros clientes alrededor de México y Estados Unidos.</p>
 	            	</a>
 	            </div>	        
 	    	</div><!-- End 3 columns container -->
